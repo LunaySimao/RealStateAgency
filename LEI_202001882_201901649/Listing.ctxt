@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Listing
+comment0.text=\r\n\ A\ real\ state\ property\ transacted\ by\ the\ agency\ and\ sold\ bay\ a\ seller\r\n\ \r\n\ @docente\ (Jo\u00E3o\ Capinha)\r\n\ @author\ (Lunay\ Sim\u00E3o,\ Egas\ Israel)\ \r\n\ @version\ (22/11/2021)\r\n
+comment1.params=propertyPrice\ adress\ houseData
+comment1.target=Listing(double,\ Adress,\ HouseData)
+comment2.params=listing\ city
+comment2.target=boolean\ isLocatedAt(Listing,\ java.lang.String)
+comment2.text=\r\n\ This\ method\ checks\ to\ see\ if\ it\ is\ located\ in\ a\ particular\ city\r\n\ @param\ listing\ The\ property\ to\ check\ if\ there\ is\ in\ the\ city\ we\ are\ looking\ for\r\n\ @param\ city\ The\ city\ used\ as\ a\ search\ criterion\r\n\ @return\ \r\n
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ The\ informtaion\ of\ a\ listing\r\n
+comment4.params=setSold
+comment4.target=void\ changePurchaseStatus(boolean)
+comment5.params=
+comment5.target=boolean\ isSold()
+comment6.params=
+comment6.target=int\ getPropertyNumber()
+comment7.params=
+comment7.target=double\ getPropertyPrice()
+comment8.params=
+comment8.target=Adress\ getAdress()
+comment9.params=
+comment9.target=HouseData\ getHouseData()
+numComments=10

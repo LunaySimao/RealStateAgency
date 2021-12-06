@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Listings
+comment0.text=\r\n\ The\ set\ of\ properties\ for\ sale\r\n\ \r\n\ @docente\ (Jo\u00E3o\ Capinha)\r\n\ @author\ (Lunay\ Sim\u00E3o,\ Egas\ Israel)\ \r\n\ @version\ (22/11/2021)\r\n
+comment1.params=listing1\ listing2\ listing3
+comment1.target=Listings(Listing,\ Listing,\ Listing)
+comment2.params=
+comment2.target=void\ displayListings()
+comment2.text=\r\n\ Shows\ the\ listings\r\n
+comment3.params=
+comment3.target=void\ display()
+comment3.text=\r\n\ Shows\ all\ the\ listings\r\n
+comment4.params=
+comment4.target=Listing\ getListing1()
+comment5.params=
+comment5.target=Listing\ getListing2()
+comment6.params=
+comment6.target=Listing\ getListing3()
+comment7.params=
+comment7.target=double\ getListingPrice1()
+comment8.params=
+comment8.target=double\ getListingPrice2()
+comment9.params=
+comment9.target=double\ getListingPrice3()
+numComments=10

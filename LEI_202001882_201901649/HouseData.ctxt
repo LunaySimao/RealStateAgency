@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HouseData
+comment0.text=\r\n\ Used\ to\ save\ property\ details\r\n\ \r\n\ @docente\ (Jo\u00E3o\ Capinha)\r\n\ @author\ (Lunay\ Sim\u00E3o,\ Egas\ Israel)\ \r\n\ @version\ (22/11/2021)\r\n
+comment1.params=length\ width\ ispresent\ adress1
+comment1.target=HouseData(double,\ double,\ boolean,\ Adress)
+comment2.params=length\ width\ adress1
+comment2.target=HouseData(double,\ double,\ Adress)
+comment3.params=
+comment3.target=void\ displayAdress()
+comment3.text=\r\n\ Shows\ the\ adress\ of\ the\ house\r\n
+comment4.params=length\ width
+comment4.target=boolean\ validadeArea(double,\ double)
+comment4.text=\r\n\ Validates\ the\ values\ received\ to\ calculate\ the\ area\r\n\ @param\ length\ -\ the\ received\ length\r\n\ @param\ width\ \ -\ the\ received\ width\r\n\ @return\ truth\ if\ it\ goes\ well\ otherwise\ false\r\n
+comment5.params=
+comment5.target=double\ getSurface()
+comment6.params=
+comment6.target=boolean\ getBackyardPresence()
+comment7.params=length\ width
+comment7.target=void\ setSurface(double,\ double)
+comment8.params=isBackyardPresence
+comment8.target=void\ setBackyardPresence(boolean)
+numComments=9
